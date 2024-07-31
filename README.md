@@ -6,10 +6,17 @@
 4️⃣ I love cats 🧇  
 5️⃣ I’m constantly striving to grow and improve my skills 🔝
 
-</center>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saida3232)](https://git.io/streak-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=Saida3232&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<center>
+
+### Social network
+
+[![Telegram](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram)](https://t.me/sdfff_ss))
+[![Gmail](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=Gmail)](mailto:argelon1@gmail.com)
+[![Discord](https://img.shields.io/badge/-discord-white?style=for-the-badge&logo=discord)](https://discordapp.com/users/1178586780933554247/)
+
+</center>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saida3232)](https://git.io/streak-stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/llll_p?ext=contest)
