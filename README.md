@@ -3,13 +3,10 @@
 🌟 Hello, friends! A little about myself:
 
 1️⃣ I’m a Python developer 🐍  
-2️⃣ I know frameworks like Django, Flask, and FastAPI 💻  
-3️⃣ I’m interested in algorithms and music 🎶  
-4️⃣ I love cats 🧇  
-5️⃣ I’m constantly striving to grow and improve my skills 🔝
+2️⃣ I’m interested in algorithms and music 🎶   
+3️⃣ I’m constantly striving to grow and improve my skills 🔝
 
 <center>
-
 
 ## My technologies:
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=black)&nbsp;
