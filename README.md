@@ -29,14 +29,12 @@
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 
 
-### Social network
-
+## Social network
 [![Telegram](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram)](https://t.me/sdfff_ss))
 [![Gmail](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=Gmail)](mailto:argelon1@gmail.com)
 [![Discord](https://img.shields.io/badge/-discord-white?style=for-the-badge&logo=discord)](https://discordapp.com/users/1178586780933554247/)
 
 </center>
 
-### LeetCode Stats
-
+## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/llll_p?ext=contest)
