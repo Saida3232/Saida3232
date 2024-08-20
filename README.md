@@ -6,7 +6,6 @@
 4️⃣ I love cats 🧇  
 5️⃣ I’m constantly striving to grow and improve my skills 🔝
 
-
 <center>
 
 ### Social network
@@ -17,6 +16,6 @@
 
 </center>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saida3232)](https://git.io/streak-stats)
+### LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/llll_p?ext=contest)
