@@ -1,4 +1,5 @@
-<p align="center"><img src="https://github.com/Saida3232/Saida3232/blob/main/assets/text-work.gif" /></p>
+<p align="center"><img src="https://github.com/Saida3232/Saida3232/blob/main/assets/mario_developer.gif" /></p>
+
 
 🌟 Hello, friends! A little about myself:
 
