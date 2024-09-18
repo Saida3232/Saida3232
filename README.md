@@ -18,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-white.svg?&style=flat&logo=GitHub&logoColor=black)&nbsp;
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-white.svg?&style=flat&logo=GitHubActions&logoColor=437FE1)&nbsp;
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red.svg?&style=flat&logo=SQLAlchemy&logoColor=black)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-red.svg?&style=flat&logo=SQL&logoColor=black)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRESQL-000000.svg?&style=flat&logo=postgresql&logoColor=318CE7)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLITE-white.svg?&style=flat&logo=sqlite&logoColor=318CE7)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-white.svg?&style=flat&logo=Swagger&logoColor=darkgreen)&nbsp;
