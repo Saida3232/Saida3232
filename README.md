@@ -36,7 +36,8 @@
 </center>
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/llll_p?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/llll_p?ext=contest&theme=dark)
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Saida3232&show_icons=true&theme=transparent)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Saida3232&show_icons=true&theme=tokyonight)
